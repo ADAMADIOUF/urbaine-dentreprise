@@ -481,7 +481,7 @@ opacity: 1;
 }
 .banner-realisations img{
  
- width: 300px;
+ max-width: 300px;
  height: 100px;
  object-fit: cover;
 }
@@ -495,9 +495,8 @@ opacity: 1;
  
 }
 .banner-realisations img{
- width: 70%;
- height: 600px;
- object-fit: cover;
+max-width: 1000px;
+height: 200px;
 }
 }
 /* contact */
