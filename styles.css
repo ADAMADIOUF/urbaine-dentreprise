@@ -605,4 +605,5 @@ color: var(--white-choise);
   font-weight: 400;
   border-radius: 5px;
   box-shadow: var(--light-shadow);
+  height: 10rem;
 }
