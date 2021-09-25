@@ -598,12 +598,9 @@ color: var(--white-choise);
 }
 /* footer */
 .footer{
-  text-align: center;
   background: var(--black-choise);
   color: var(--white-choise);
-  font-size: 1.2rem;
-  font-weight: 400;
-  border-radius: 5px;
-  box-shadow: var(--light-shadow);
-  height: 10rem;
+  text-align: center;
+  padding: 2rem;
+  
 }
